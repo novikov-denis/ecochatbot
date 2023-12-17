@@ -1,0 +1,790 @@
+                                  ГОСУДАРСТВЕННЫЙ   СТАНДАРТ
+                                         СОЮЗА  ССР
+
+
+
+
+                                         ОХРАНА ПРИРОДЫ. АТМОСФЕРА
+
+                ИСТОЧНИКИ И МЕТЕОРОЛОГИЧЕСКИЕ
+                     ФАКТОРЫ ЗАГРЯЗНЕНИЯ,
+                    ПРОМЫШЛЕННЫЕ ВЫБРОСЫ
+                                            ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ
+
+                                               ГОСТ 17.2.1.04— 77
+                                               (СТ СЭВ 3403— 81)
+
+
+                                               Издание официальное
+
+
+
+
+                                     ГОСУДАРСТВЕННЫЙ КОМИТЕТ СССР ПО СТАНДАРТАМ
+                                                      Мо с к в а
+участие в долевом строительстве
+УДК 001.4 : 502.3 : 006.354                                               Группа ТОО
+
+Г О С У Д А Р С Т В Е Н Н Ы Й            С Т А Н Д А Р Т         С О Ю З А     С С Р
+
+
+              Охрана природы. Атмосфера
+
+
+
+                                                                 . .. - *
+   ИСТОЧНИКИ И МЕТЕОРОЛОГИЧЕСКИЕ ФАКТОРЫ                          ГОСТ
+     ЗАГРЯЗНЕНИЯ, ПРОМЫШЛЕННЫЕ ВЫБРОСЫ
+                 Термины и определения                        17 2 104 77
+       Nature protection. Atmosphere. Sources and
+ meteorological factors of pollution, industrial emissions.   (СТ СЭВ 3403— 81)
+                  Terms and definitions
+
+
+Постановлением Государственного комитета стандартов Совета Министров СССР
+от 28 июня 1977 г. № 1611 срок введения установлен
+                                                                  с 01.07.78
+
+
+   Стандарт устанавлнвает применяемые в науке, технике и про­
+изводстве термины и определения основных понятий в области
+метеорологических аспектов загрязнения атмосферы и защиты
+атмосферы от промышленных выбросов.
+   Термины, установленные настоящим стандартом, обязательны
+для применения в используемой в народном хозяйстве докумен­
+тации всех видов, в научно-технической, учебной и справочной
+литературе. Приведенные определения можно, при необходимости,
+изменять по форме изложения, не допуская нарушения границ
+понятий.
+   Для каждого понятия установлен один      стандартизованный
+термин. Применение терминов—синонимов стандартизованного
+термина запрещается. Недопустимые к применению термины-си­
+нонимы приведены в стандарте в качестве справочных и обозна­
+чены «Ндп».
+   Д ля отдельных стандартизованных терминов в стандарте при­
+ведены в качестве справочных их краткие формы, которые раз­
+решается применять в случаях, исключающих возможность их
+различного толкования.
+   В случаях, когда существенные признаки понятия содержатся
+в буквальном значении термина, определение не приведено, и со­
+ответственно в графе «Определение» поставлен прочерк.
+   В стандарте в качестве справочных приведены иностранные
+эквиваленты стандартизованных терминов на немецком (D), ан­
+глийском (Е) и французском (F) языках.
+
+Издание официальное                                           Перепечатка воспрещена
+        * Переиздание. Декабрь 1983 г. с Изменением М 1, утвержденным
+          в июне 1983 г.; Пост. № 2770 от 30.06.83 (ИУС № 10 1983 г.)
+                                           © Издательство стандартов, 1984
+Стр. 2 ГОСТ 17.2.1.04— 77
+
+
+   В стандарте приведены алфавитные указатели содержащихся
+в HeiM терминов на русском языке и их иностранных эквивален­
+тов, а также справочное приложение, содержащее термины и оп­
+ределения видов промышленной пыли.
+   Стандартизованные термины набраны полужирным шрифтом,
+их коаткая форма — светлым, а недопустимые синонимы — кур­
+сивом.
+   Стандарт соответствует СТ СЭВ 3403—81.
+   (Измененная редакция, Изм. № 1).
+
+               Термин                                 Определение
+
+
+  1. Источник примеси                                     —
+  D. Verunreinigungsquelle
+  E. Source
+  F. Source
+  2. Примесь в атмосфере                 Рассеянное в атмосфере вещество, не со­
+  Примесь                              держащееся в ее постоянном составе
+  Ндп. Загрязнитель
+  D. Beimengungen, Schadstoff
+  E. Pollutants
+  F. Polluants
+  3. Предельно допустимая кон­           Максимальная концентрация примеси в
+центрация примеси в атмосфере          атмосфере, отнесенная к определенному
+  пдк                                  времени осреднения, которая при периоди­
+  Ндп. Максимально        возможная    ческом воздействии или на протяжении
+  концентрация                         всей жизни человека не оказывает на него
+  Предельная концентрация               вредного действия, включая отдаленные
+  Е>. Maximaie Immissionskonzen-        последствия, и на окружающую среду в
+      tration                          целом
+  E. Maximum permissible concen­
+      tration
+  F. Concent, ation maximale ad­
+      missible
+  4. Загрязнение атмосферы               Изменение состав атмосферы    в резуль­
+  D. Luftverunreinigung, Vorgang       тате наличия в ней примесей
+  E. Air pollution, contamination
+   F. Pollution d’air
+  5. Антропогенное       загрязнение     Загрязнение атмосферы,     обусловленное
+атмосферы                              деятельностью человека
+  Антропогенное загрязнение
+  D. Antropogenic Luftverunreini­
+      gung
+  E. Anthropogenic air pollution
+   F. Pollution d’air antropogene
+   6. Естественное       загрязнение     Загрязнение атмосферы,     обусловленное
+атмосферы                              природными процессами
+  Естественное загрязнение
+   D. Natiirliche Luftverunreinigung
+  E. Natural air pollution
+  F. Pollution d’air naturelle
+                                                          ГОСТ       04— 77 Стр. 3
+
+
+
+               Термин                                  Определение
+
+
+  7. Метеорологические       факторы      Метеорологические элементы, явления и
+загрязнения атмосферы                   процессы, влияющие на загрязнение ат­
+  Метеорологические факторы             мосферы
+  D. Meteorologische      EinHufigrd-
+      fiert der Luftverunreinigung
+  E. Meteorological factors of air
+      pollution
+   F. Facteurs meteorologiques de
+      la pollution d'air
+   8. Потенциал загрязнения ат­           Сочетание метеорологических факторов,
+мосферы                                 обуславливающих уровень возможного за ­
+  Потенциал загрязнения                 грязнения атмосферы от источников в дан­
+   D. Luftverunreinigungspotential      ном географическом районе
+  E. Air pollution potential
+  F. Potential de pollution d’air
+  9. Опасная скорость ветра               Скорость ветра на установленной высо­
+  D, Kritische      Windgeschwindig-     те, при которой приземная концентрация
+      keit                              от источника примеси достигает макси­
+  E, Critical wind velocity             мального значения
+  F, Vitesse dangereuse du vent
+  JO. Остров тепла                        Область в городе, в которой температу­
+  D. Warmeinsel                         ра воздуха выше, чем за городом
+  E. Heat island
+  F. lie thermique
+  11. Смог                                Газообразные и твердые примеси в соче­
+  D. Smog                               тании с туманом или аэрозольной дымкой,
+  E. Smog                               образующиеся в результате их преобразо­
+  F. Smog                               вания и вызывающие интенсивное загряз­
+                                        нение атмосферы
+   12. Фотохимический смог                Смог, образованный в результате реак­
+  D. Fotochcmischer Smog                ций между примесями в атмосфере под
+  E. Photochemical smog                 влиянием солнечной радиации
+  F. Smog photochemique
+  13. Атмосферная диффузия                Неупорядоченное перемещение воздуха
+  Ндп. Вихревая диффузия                с находящимися в нем примесями, обус­
+  D. Atmospharische Diffusion           ловленное турбулентностью атмосферы
+  E. Atmospheric diffusion
+  F. Diffusion atmospherique
+  14. Коэффициент турбулентной            Коэффициент пропорциональности между
+диффузии в атмосфере                    средним турбулентным потоком примеси
+  D. Koeffizient der turbulenten        в атмосфере и градиентом ее осредненной
+      Diffusion                         концентрации
+  E. Coefficient of turbulent diffu­
+      sion
+  F. Coefficient de diffusion tur-
+      bulente
+  15. Самоочищение атмосферы              Частичное или полное восстановление
+  D. Selbstreinigung der Luft           естественного состава атмосферы вслед­
+  E. Air selfcleaning                   ствие удаления примесей под воздействием
+  F. Autopurification d’air             природных процессов
+Стр. 4 ГОСТ 17.2.1.04— 77
+
+
+
+               Термин                                 Определение
+
+
+  16. Вымывание примеси из ат­          Удаление примеси из атмосферы при об­
+мосферы                               разовании облаков, туманов и выпадении
+  D Auswaschung                       осадков
+  E. Pollutant washout
+  F. Elimination des polluants
+  17. Выпадение примеси из ат­          Удаление примеси из атмосферы       под
+мосферы                               действием гравитационных сил
+  D. Ausfall
+  E. Pollutant fallout
+  F. Sedimentation des polluants
+  18. Выброс вещества                   Вещество, поступающее в атмосферу из
+  Выброс                              источника примеси
+   Ндп. Эмиссия
+  Выпуск
+  Выпускные выделения
+  D. Emission
+  E. Emission, discharge
+  F. Emission
+   19. Мощность выброса                 Количество выбрасываемого в атмосфе­
+  D. Quellstarke                      ру вещества в единицу времени
+  E. Intensity of emission
+  F. Intensity d’emission
+  20. Предельно          допустимый     Научно-технический норматив, устанав­
+выброс                                ливаемый из условия, чтобы содержание
+  ПДВ                                 загрязняющих веществ в приземном слое
+  D. Zulascige Emission               воздуха от источника или их совокупности
+   E. Maximum permissible dis­        не превышало нормативов качества воз­
+      charge                          духа для населения, животного и расти­
+  F. Emission maximale admissib­      тельного мира
+      le
+  21. Инвентаризация выбросов           Систематизация сведений о распределе­
+  D. Inventur der Emissionen          ний источников на территории, количестве
+  E. Emission inventory               и составе выбросов
+  F. Inventaire des emissions
+  22. Загрязняющее атмосферу ве­        Примеси в атмосфере, которые могут ока­
+щество                                зывать неблагоприятное влияние на здо­
+   Загрязняющее вещество              ровье людей и (или) на окружающую среду
+  D. Luftschadstoff
+  E. Air pollutant
+  F. Matiere polluante
+  23. Охрана атмосферы                  Система   государственных мероприятий
+  D. Luftreinhaltung                  по защите   атмосферы от загрязняющих
+  E. Environmental protection         веществ
+  F. Protection de l’atmosphere
+  24. Источник загрязнения атмос­       Объект, распространяющий загрязняющие
+феры                                  атмосферу вещества
+  Источник
+  D. Luftverunreinigungsquelle
+  E. Source of air pollution
+   F. Source de pollution atmosphe-
+      rique
+                                                           ГОСТ 17.2.1.04— 77 Стр. 5
+
+
+
+               Термин                                    Определение
+
+
+   24а. Источник естественного за­         Источник загрязнения атмосферы, обуслов­
+грязнения атмосферы                      ленный природными процессами
+   Естественный источник
+  D. Naturliche       Luftverunreini-
+       gungsquelle
+   E. Natural source of air pollu­
+       tion
+    F. Source naturelle
+    246. Источник     антропогенного       Источник загрязнения атмосферы, обус­
+загрязнения атмосферы                    ловленный явлениями, вызванными деятель­
+   Антропогенный источник                ностью человека
+   D. Antropogene      Luftverunrelni-
+       gungsquelle
+   E. Man-made source of air pol­
+        lution
+   F. Source antropogene
+   24в. Стационарный источник за­
+грязнения атмосферы
+   Стационарный источник
+   D. Stationare       Luftverunreini-
+        gungsquelle
+   E. Stationary source of air pol­
+        lution
+   F. Source stationnaire
+   24г. Передвижной источник за­
+грязнения атмосферы
+   Передвижной источник
+    D. Mobile Luftverunreinigungs-
+        quelle
+    E. Mobile source of air pollution
+   F. Source mobile
+   24д. Точечный источник загряз­          Источник, выбрасывающий загрязняющие
+ нения атмосферы                         атмосферу вещества из установленного от­
+   Точечный источник                     верстия
+   D. Punktformige Luftverunreini-
+     gungsquelle
+   E. Point source of air pollution
+  F. Source ponctuelle
+  24e. Линейный источник загряз­           Источник, выбрасывающий загрязняющие
+нения атмосферы                          атмосферу вещества по установленной линии
+  Линейный источник
+  D. Linienformige Luftverunreini-
+      gungsquelle
+  E. Line source of air pollution
+   F. Source de ligne
+  24ж. Плоский источник загрязне­          Источник, выбрасывающий загрязняющие
+ния атмосферы                            атмосферу вещества с установленной поверх­
+  Плоский источник                       ности
+  D. Flachenformige Luftverunrei-
+     nigungsquelle
+  E. Area source of air pollution
+  F. Source de surface
+ Стр. 6 ГОСТ 17.2.1.04— 77
+
+
+
+               Термин                                 Определение
+
+
+  24з. Источник непрерывного за-         Источник, выбрасывающий загрязняющие
+грязнения атмосферы                    атмосферу вещества непрерывно в течение
+  D. Kontinuierliche Luftverunrei-     длительного периода времени
+     nigungsquelle
+  E. Continious source of air pollu­
+     tion
+  F. Source continue
+  24и. Источник прерываемого за ­
+грязнения атмосферы
+  D. Diskontinuierliche Luftverun-
+     reinigungsquelle
+  E. Intermittent source of air pol­
+     lution
+  F. Source descontinue
+  24к. И сточник нерегулярного з а ­
+грязнения атмосферы
+   D. Unregelmassige Luftverunrei-
+      nigungsquelle
+  E. Irregular source of air pollu­
+      tion
+  F. Source irreguliere
+   24а—24к. (Введены дополнительно, Изм, № 1).
+  25. Промышленный           источник    Источник загрязнения атмосферы, обус­
+загрязнения атмосферы                  ловленный действием производственных про­
+  Промышленный источник                цессов или взаимосвязанных с ними вспо­
+  D. Industrielle Quelle der Luft- могательных процессов, осуществляемых в
+      verunreinigung                   территориально-ограниченных    производст­
+  E. Industrial air pollution sour­ венных комплексах
+      ce
+  F. Source industrielle de la
+      pollution atmospherique
+  26. Промышленный выброс
+  D. Emission aus Industrieanlagen
+  E. Industrial emission
+  F. Emission industrielle
+  27. Организованный         промыш­     Промышленный выброс, поступающий в
+ленный выброс                          атмосферу через специально сооруженные
+  Организованный выброс                газоходы, воздуховоды и тр} бы
+  D. Organisierte Emission aus
+      Industrieanlagen
+  E. Organized industrial emission
+  F. Emission industrielle comptce
+  28. Неорганизованный промыш­           Промышленный выброс, поступающий в
+ленный выброс                          атмосферу в виде ненаправленных пото­
+  Неорганизованный выброс              ков газа в результате нарушения герме­
+  D. Nicht organisierte Emission       тичности оборудования, отсутствия или
+      aus Industrieanlagen             неудовлетворительной работы оборудова­
+  E. Non-organized          industrial ния по отсосу газа в местах загрузки, вы­
+     emission                          грузки или хранения продукта
+  F. Emission     industrielle    non
+      comptee
+                                                          ГОСТ 17.2.1.04— 77 Стр. 7
+
+
+
+               Термин                                  Определение
+
+
+  29. Химический состав промыш­
+ленного выброса
+   D. Chemische zusammensetzung
+      der Emission aus Industrie-
+      anlagen
+  E. Chemical composition of in­
+       dustrial emission
+  F. Composition       chemique de
+      1’emission industrielle
+  30>, Очистка газа                      Отделение от газа или превращение в
+  D. Gasreinigung                      безвредное состояние загрязняющих ат­
+ E. Gas cleaning                       мосферу веществ
+ F. Epuration de gaz
+ 31. Промышленная очистка газа           Очистка газа с целью последующей
+ D. Industrielle Gasreinigung          утилизации или возврата в производство
+ E. Industrial gas cleaning            отделенного от газа или превращенного в
+ F. Epuration industrielle de gaz      безвредное состояние продукта
+ 32. Санитарная очистка газа             Очистка газа от остаточного содержания
+ D. Hygienische Gasreinigung           в газе загрязняющего вещества, при кото­
+ E. Hygiene gas cleaning               ром обеспечивается соблюдение установ­
+ F. Epuration     de     gaz    des    ленных для последнего предельно допу­
+        substances mu’sibles           стимых концентраций в воздухе населен­
+                                       ных мест или производственных помещений
+  33. Дымовой газ                        Газ, выделяемый источником загрязнения
+  D. Rauchgas                          атмосферы при сгорании топлива
+  E. Fume
+  F. Fumee
+  34. Неочищенный газ
+  Ндп. Грязный газ
+  D. Das ungereinigte Gas
+  E. Dirty gas
+ F. Gaz impur
+ 35. Очищенный газ                       Газ, подвергнутый очистке в очистных ус­
+ Ндп. Чистый газ                       тановках до требуемой чистоты
+ D. Reingas
+ E. Purified gas
+ F. Gaz epure
+ 36. Промышленная пыль                   Пыль, входящая в состав промышлен­
+ D. Industrieller Staub                ного выброса
+ E. Industrial dust
+ F. Poussiere industrielle
+ 37. Дисперсный состав пыли              Распределение частиц пыли по размерам,
+ D. Korngrossenverteilung        des   характеризуемое относительным содержа­
+     Staubes                           нием фракций или параметрами функций,
+ E. Particle size distribution         описывающих указанное распределение
+ F. Distribution granulometrique
+     de la poussiere
+ 38. Запыленность газа                  Массовая концентрация пыли в газе
+ Ндп. Коэффициент           запылен­
+ ности газа
+ D. Staubgehalt des Gases
+ E. Dust content
+ F. Empoussierage de gaz
+Стр. 8 ГОСТ 17.2.1.04— 77
+
+
+
+              Термин                                  Определение
+
+
+  39. Степень очистки газа               Отношение массы извлеченного из газа
+  Ндп. Эффективноегь       очистки     или    прореагировавшего    загрязняющего
+ газа                                  вещества к массе загрязняющего вещества,
+ Коэффициент очистки газа              присутствующего в газе до очистки
+ D. W irkungsgrad der Gasreini-
+     gung
+  E. Efficiency of gas cleaning
+  F. Efficacire de l’epuration    de
+     gaz
+
+
+    (Измененная редакция. Изм. № 1).
+
+
+            АЛФАВИТНЫЙ УКАЗАТЕЛЬ ТЕРМИНОВ Н А РУССКО М ЯЗЫКЕ
+
+Вещество загрязняющее                                                         22
+Вещество, загрязняющее атмосферу                                              22
+Выброс                                                                        18
+Выброс вещества                                                               18
+Выброс неорганизованный                                                       28
+Выброс организованный                                                         27
+Выброс предельно допустимый                                                   20
+Выброс промышленный                                                           26
+Выброс промышленный неорганизованный                                          28
+Выброс промышленный организованный                                            27
+Выделения выпускные                                                           28
+Вымывание примеси из атмосферы                                                16
+Выпадение примеси из атмосферы                                                17
+Выпуск                                                                        18
+Газ грязный                                                                   34
+Газ дымовой                                                                   33
+Газ неочищенный                                                               34
+Газ очищенный                                                                 35
+Газ чистый                                                                    35
+Диффузия атмосферная                                                          13
+Диффузия вихревая                                                             13
+Загрязнение антропогенное                                                      5
+Загрязнение атмосферы                                                          4
+Загрязнение атмосферы антропогенное                                            5
+Загрязнение атмосферы естественное                                             6
+Загрязнение естественное                                                       6
+Загрязнитель                                                                   2
+Запыленность газа                                                             38
+Инвентаризация выбросов                                                       21
+Источник                                                                      24
+Источник антропогенного загрязнения атмосферы                                246
+Источник антропогенный                                                       246
+Источник естественного загрязнения атмосферы                                 24а
+Источник естественный                                                        24а
+Источник загрязнения атмосферы                                                24
+                                                      ГОСТ 17.2.1.04— 77 Стр. 9
+
+
+Источник загрязнения атмосферы линейный                                    24е
+Источник загрязнения атмосферы передвижной                                 24г
+Источник загрязнения атмосферы плоский                                    24ж
+Источник загрязнения атмосферы промышленный                                 25
+Источник загрязнения атмосферы стационарный                                24в
+Источник загрязнения атмосферы точечный                                    24д
+Источник линейный                                                          24е
+Источник непрерывного загрязнения атмосферы                                24з
+Источник нерегулярного загрязнения атмосферы                               24к
+Источник передвижной                                                       24г
+Источник плоский                                                          24ж
+Источник прерываемого загрязнения атмосферы                                24и
+Источник примеси                                                             1
+Источник промышленный                                                       25
+Источник стационарный                                                      24в
+Источник точечный                                                          24д
+Концентрация максимально возможная                                           3
+Концентрация предельная                                                      3
+Концентрация примеси в атмосфере предельно допустимая                        3
+Коэффициент запыленности газа                                               38
+Коэффициент очистки газа                                                    39
+Коэффициент турбулентной диффузии в атмосфере                               14
+Мощность выброса                                                            19
+Остров тепла                                                                10
+Охрана атмосферы                                                            23
+Очистка газа                                                                30
+Очистка газа промышленная                                                   31
+Очистка газа санитарная                                                     32
+ПДВ                                                                         20
+ПДК                                                                          3
+Потенциал загрязнения                                                        8
+Потенциал загрязнения атмосферы                                              8
+Примесь                                                                      2
+Примесь в атмосфере                                                          2
+Пыль промышленная                                                           36
+Самоочищение атмосферы                                                      15
+Скорость ветра опасная                                                       9
+    (Измененная редакция. Изм. № 1).
+
+
+         АЛФАВИТНЫЙ УКАЗАТЕЛЬ ТЕРМИНОВ НА НЕМЕЦКОМ ЯЗЫКЕ
+
+Abgeleitete Emission                                                        27
+Antropogene Luftverunreinigung                                              5e
+Antropogene Luftverunreinigungsquelle                                      246
+Atmospharische Diffusion                                                    13
+Ausfall                                                                     17
+Auswaschung                                                                 16
+Beimengungen                                                                 2
+Chemische Zusammensetzung der Emission aus Industrieanlagen                 29
+Das ungereinigte Gas                                                        34
+Diffuse Emission                                                            28
+Diskontinuierliche Luftverunreinigungsquelle                               24и
+Emission aus Industrieanlagen                                               26
+Flachenformige Luftverunreinigungsquelle                                  24ж
+Fotochemischer Smog                                                         12
+Стр. 10 ГОСТ 17.2.1.04—77
+
+Gasreinigung                                                  30
+Hygienische Gasreinigung                                      32
+Industrielle Gasreinigung                                     31
+Industrielle Quelle der Luftverunreinigung                    25
+Industrieller Staub                                           36
+Inventur der Emissionen                                       21
+Koeffizient der turbulenten Diffusion                         14
+Korngrossenverteilung des Staubes                             37
+Kontinuierliche Luftverunreinigungsquelle                   24j
+Kntische Windgeschwindigkeit                                   9
+Linienformige Luftverunreinigungsquelle                     24e
+Luftreinhaltung                                              23
+Luftschadstoff                                                22
+Luftverunreinigungspotential                                   8
+Luftverunreinigung                                             4
+Luftverunreinigungsquelle                                     24
+Maximale Immissionskonzentration                               3
+Meteorologische Einflussgrossen der Luftverunreinigung         7
+Mobile Luftverunreinigungsquelle                             24 r
+Naturliche Luftverunreinigung                                  6
+ Natiirliche Luftverunreinigungsquelle                       24a
+ Punktformige Luftverunreinigungsquelle                      24 д
+Quellenstarke                                                 19
+Rauchgas                                                      33
+Reingas                                                       35
+Schadstoff                                                     2
+Selbstreinigung der Luft                                      15
+Smog                                                          11
+Staubgehalt des Gases                                         38
+Stationare Luftverunreinigungsquelle                        24 b
+Unregelmassige Luftverunreinigungsquelle                    24 k
+Verunreinigungsquelle                                          1
+Vorgang                                                        4
+Warmeinsel                                                    Ш
+Wirkungsgrad der Gasreinigung                                 39
+Zulassige Emission                                           20
+     (Измененная редакция. Изм. № 1).
+
+        АЛФАВИТНЫЙ УКАЗАТЕЛЬ ТЕРМИНОВ НА АНГЛИЙСКОМ ЯЗЫКЕ
+Air pollutant                                                22
+Air pollution                                                 4
+Air pollution potential                                        8
+Air selfcleaning                                              15
+Anthropogenic air pollution                                    5
+Area source of pollution                                    24ж
+Atmospheric diffusion                                         13
+Chemical composition of industrial emission                   29
+Coefficient of turbulent diffusion                            14
+Contamination                                                  4
+Continuous source of air pollution                          24з
+Critical wind velocity                                        9
+Dirty gas                                                    34
+Discharge                                                    18
+Dust content                                                 38
+Efficiency of gas cleaning                                   39
+                                                 ГОСТ 17.2.1.04— 77 Cfp, 11
+
+Emission
+Emission from defined place                                             27
+Emission from non-defined place                                         28
+Emission inventory                                                      21
+Environmental protection                                                23
+Fume                                                                    33
+Gas cleaning                                                            30
+Heat island                                                              10
+Hygiene gas cleaning                                                    32
+Industrial air pollution source                                         25
+Industrial dust                                                         36
+Industrial emission                                                     26
+Industrial gas cleaning                                                 31
+Intensity of emission                                                   19
+Intermittent source of air pollution                                   24и
+Irregular source of air pollution                                      24k
+Line source of air pollution                                           24e
+Maximum permissible concentration                                        3
+Man-made source of air pollution                                       246
+Maximum permissible discharge                                           20
+Meteorological factors of air pollution                                  7
+Mobile source of air pollution                                         24r
+Natural air pollution                                                    6
+Natural source of air pollution                                        24a
+Particle size distribution                                              37
+Photochemical smog                                                      12
+Point source of air pollution                                          24д
+Pollutant fallout                                                       17
+Pollutants                                                               2
+Pollutant washout                                                       16
+Purified gas                                                            35
+Smog                                                                    11
+Source                                                                   1
+Source of air pollution                                                 24
+Stationary source of air pollution                                     24b
+     (Измененная редакция. Изм. № 1).
+
+       АЛФАВИТНЫЙ УКАЗАТЕЛЬ ТЕРМИНОВ НА ФРАНЦУЗСКОМ ЯЗЫКЕ
+Autopuiification d’air                                                   15
+Coefficient de diffusion turbulente                                     14
+Composition chimique de remission industrielle                          29
+Concentration maximale admissible                                        3
+Diffusion atmospherique                                                 13
+Distribution granulometrique de la poussiere                            37
+Efficacite de Tepuration de gaz                                         39
+Elimination des polluants                                               16
+Emission                                                                18
+Emission industrielle                                                   26
+Emission maximale admissible                                            20
+Emission ponctuelle definie                                             27
+Emission ponctuelle non definie                                         28
+Empoussierage de 'gaz                                                   38
+Epuration de gaz                                                        30
+Epuration de gaz des substances nuisibles                               32
+Epuration industrielle de gaz                                           31
+Стр. 12 ГОСТ 17.2.1.04— 77
+
+
+Facteurs meteorologiques de la pollution d’air         7
+Fumce                                                 33
+Gaz epure                                             35
+Gaz impur                                             34
+He thermique                                          m
+Intensity d’einission                                 19
+Inventaire des emissions                              21
+Matiere polluante                                     22
+Polluants                                              2
+Pollution d’air                                        4
+Pollution d’air antropogene                            5
+Pollution d’air naturelle                              6
+Potentiel de pollution d’air                           8
+Poussiere industrielle                                36
+Protection de l’atmosphere                            23
+Sedimentation des polluants                           17
+Smog                                                  11
+Smog photochimique                                    12
+Source                                                 1
+Source antropogene                                  246
+Source continue                                      24з
+Source de ligne                                      24e
+Source de pollution atmospherique                     24
+■Source de surface                                  24ж
+Source discontinue                                  24и
+Source industrielle de la pollution atmospherique     25
+Source irreguliere                                  24к
+Source mobile                                        24г
+Source naturelle                                    24 а
+Source ponctuelle                                   24д
+Source stationnaire                                 24в
+Vitesse dangereuse du vent                             9
+     (Измененная редакция. Изм. № 1).
+                                                              ГОСТ 17.2.1.04—77 Стр. 13
+
+
+                                                                     ПРИЛОЖЕНИЕ
+                                                                     Справочное
+
+
+                             Виды промышленной пыли
+
+              Термин                                        Определение
+
+
+1. Механическая пыль                      Промышленная пыль, образующаяся в
+                                        результате измельчения продукта в ходе
+                                        технологического процесса
+2. Возгоны                                 Промышленная пыль, образующаяся в
+                                        результате объемной конденсации паров
+                                        веществ при охлаждении газа, пропускае­
+                                        мого через технологический аппарат, уста­
+                                        новку или агрегат
+3. Летучая зола                           Промышленная пыль в виде несгораемо­
+                                        го остатка топлива, образующегося из его
+                                        минеральных примесей при горении, содер­
+                                        жащегося в дымовом газе во взвешенном
+                                        состоянии
+4. Промышленная сажа                      Промышленная пыль в виде твердого
+                                        высокодисперсного углерода, образующе­
+                                        гося при неполном сгорании или термиче­
+                                        ском разложении углеводородов, входяще­
+                                        го в состав промышленного выброса
+
+
+
+
+                            Редактор Г. А. Ивашина
+                    Технический редактор Н. В. Келейншова
+                             Корректор Э. В. Митяй
+
+ Сдано в иаб. 31Л0.83 Подп. в печ. 01.01.84 1,0 п. л. 1,0 уел. кр.-отт. 1,21 уч.-изд. л.
+                              Тир. 16000 Цена 5 коп.
+        Ордена «Знак Почета» Издательство стандартов, 123840, Москва, ГСП,
+                            Новопресненский пер., д. 3.
+   Вильнюсская типография Издательства стандартов, ул. Миидауго, 12/14. Зак. 5436
+                                                                                           F   !.иннца
+                                                              ..
+                                                                                                              Обозначение
+
+                                                                                          международное                      русское
+                    1
+
+                                                  О С Н О Е ! Н Ы Е Е Д И Н И [ Ц Ы СИ
+                        Длина                                         метр                       m                              М
+
+                    * Масса                                        килограмм                     kg                             КГ
+                      Время                                         секунда                       s                              с
+                    , Сила электрического тока                        ампер                      А                              А
+                      Термодинамическая темпера-
+                         тура                                      кельвпн                        К                            К
+                      Количество вещества                           моль                        m ol                          моль
+                      Сила света                                   какдела                       cd                            кд
+
+                                           ДОПОЛНИ ТЕЛЬНЫЕ                     ЕДИНИЦЫ                        СИ
+                        Плоский угол                                 радиан                     rad                            рад
+                        Телесный угол                              стерадиан                      ST                            ср
+
+                                  ПРОИЗВОДНЫЕ ЕДИНИЦЫ СИ, ИМЕЮЩИЕ СПЕЦИАЛЬНЫЕ
+                                                НАИМЕНОВАНИЯ
+                                                                               Единица
+                                                          }
+                                                                                                                        Выражение через
+                                    Пг/ л > ’на           ]    Нэнменоаа-
+                                                                                      Обозначение                        основные и до­
+                                                                                                                          полнительные
+                                                          |         ние        междуна­                                     единигы ГН
+                                                                                родное             русское
+                                                     1
+                        Частота                           герц                   Нг                      Гц                   с -1
+                        Сил<г                           НЬЮТОН                   N                       н               м кг с-2
+                        Давление                        паскаль                  Ра                      ш               М'1 кг ■с“2
+                        Энергия                         джоуль                   J                       Дж              м2 • КГ ■С~г
+                        Мощность                          ватт                   W                       Вт              Мэ • КГ *с^3
+                        Количество электричества         кулон                   С                       Кл                  с А
+                        Электрическс о напряжение        вольт                   V                       В           м2 - к г • с~3 • А” :
+                        Электрическая емкость            фарад                   F                       ф           м-2 • КГ“*• с4 • А3
+                        Электрическое сопротивление        ом                    Й                       Ом         м2 кг с~3 А_-
+                                                        сименс                   S                                  м - 2 . кГ-1 . С3 . Д 2
+                        Электрическая проводимость                                                       См
+                        Поток магнитной индукции         вебер                  Wb                       Вб         м2 кг с"2 ■А_(
+                        Магнитная индукция               тесла                   Т                       Тл           кг • с“2 • А"1
+                        Индз ктивнссть                   генри                  н                        Гн         м2 кг с-2 А '2
+                        Световой поток                  люмен                   1т                       лм             кд ср
+                        Освещенность                     люкс                   1х                       лк           м~- кд ср
+                        Активность рддио1 ?уклида      Секкерель                Bq                       Бк                с -1
+                        Поглощения л доза                грэй                   Gy                       Гр              М" с-2
+                        ионизирующего излучения
+                        Эквивалентная доза излучения    зиверт                  Sv                       Зв                 м- >с~2
+ГОСТ 17.2.1.04-77
+
